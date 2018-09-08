@@ -1,0 +1,11 @@
+{
+    "name": "node-dialogflow-webhook-boilerplate",
+    "description": "A very simple webhook that gets you the details of a cryptocurrency.",
+    "repository": "https://github.com/vaisakh4de/node-dialogflow-webhook-boilerplate.git",
+    "keywords": [
+        "crypto",
+        "dialogflow",
+        "chatbot",
+        "webhook"
+    ]
+}
